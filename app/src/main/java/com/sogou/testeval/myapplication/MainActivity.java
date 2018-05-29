@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         tv.setText(stringFromJNI());
         new Test();
         new Test();
-        new Test();
     }
 
     /**
